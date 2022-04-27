@@ -1,0 +1,10 @@
+# ignore dat files
+*.dat
+# ignore bin files
+*
+
+# keep program and tool files
+!*.c 
+!*.h
+!makefile
+!.gitignore
